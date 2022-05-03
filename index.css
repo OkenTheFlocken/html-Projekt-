@@ -13,7 +13,12 @@
 font-weight: bold ;
 color: rgb(139, 139, 139);
 font-family: Lato, 'sanf serif'
+}
 
-
-
+.container {
+    min-width: auto;
+    min-height: auto;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
