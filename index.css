@@ -33,3 +33,14 @@ font-family: Lato, 'sanf serif'
     text-align: center;
     background-image: url("IMG_0480.jpeg");
 }
+
+.bottomcontinue {
+    background-size: cover;
+    min-width: auto;
+    min-height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(IMG_0467.jpeg);
+}
