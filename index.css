@@ -26,7 +26,7 @@ font-family: Lato, 'sanf serif'
 .überblick {
     background-size: cover;
     min-width: auto;
-    min-height: auto;
+    min-height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,8 +36,8 @@ font-family: Lato, 'sanf serif'
 
 .bottomcontinue {
     background-size: cover;
-    min-width: auto;
-    min-height: 400px;
+    min-width: 132px;
+    min-height: 75px;
     display: flex;
     justify-content: center;
     align-items: center;
