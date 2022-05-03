@@ -22,3 +22,14 @@ font-family: Lato, 'sanf serif'
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.überblick {
+    background-size: cover;
+    min-width: auto;
+    min-height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url("IMG_0480.jpeg");
+}
