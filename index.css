@@ -31,13 +31,13 @@ font-family: Lato, 'sanf serif'
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("IMG_0480.jpeg");
+    background-image: url("backround.webp");
 }
 
 .bottomcontinue {
     background-size: cover;
     min-width: 132px;
-    min-height: 75px;
+    min-height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
