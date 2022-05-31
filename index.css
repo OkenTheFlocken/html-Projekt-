@@ -8,23 +8,21 @@ body {
     color: rgb(50, 96, 170);
     width: 100%;
     text-align: center;
-    font: size 40px; ;
-    font-family: Lato, 'sans serif'
+    font: size 40px;
     
-
-
+    font-family: Lato, 'sans serif';
 }
 
 .head01 {
-font-weight: bold ;
-color: rgb(8, 73, 138);
-font-family: Lato, 'sanf serif'
+    font-weight: bold;
+    color: rgb(8, 73, 138);
+    font-family: Lato, 'sanf serif'
 }
 
 .container {
     min-width: auto;
     min-height: auto;
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
@@ -36,10 +34,10 @@ font-family: Lato, 'sanf serif'
     min-height: 150px;
     display: flex;
     justify-content: center;
+    gap: 15px;
     align-items: center;
     text-align: center;
     background-image: url("backround.webp");
-    border-spacing: 10px;
 }
 
 .bottomcontinue {
@@ -52,11 +50,12 @@ font-family: Lato, 'sanf serif'
     align-items: center;
     text-align: center;
     background-image: url(IMG_0467.jpeg);
-    background-position: 0px 200px; 
+    background-position: 0px 200px;
     background-color: brown;
-    
+
 
 }
+
 button:hover {
     background-color: rgb(41, 12, 209);
 }
