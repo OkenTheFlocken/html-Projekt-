@@ -44,7 +44,7 @@ font-family: Lato, 'sanf serif'
 .bottomcontinue {
     background-size: cover;
     min-width: 500px;
-    min-height: 15px;
+    min-height: 200px;
     max-height: fit-content;
     display: flex;
     justify-content: center;
