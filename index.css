@@ -53,7 +53,12 @@ font-family: Lato, 'sanf serif'
     text-align: center;
     background-image: url(IMG_0467.jpeg);
     background-position: 0px 200px; 
+    background-color: brown;
+    
 
+}
+button:hover {
+    background-color: aliceblue;
 }
 
 .txt {
